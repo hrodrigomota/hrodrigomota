@@ -3,6 +3,7 @@
 **About Me:**
 - :earth_americas: I'm from Brazil
 - 👨🏽‍💻 I'm currently studying programming
+- 💻 HTML | CSS | JavaScript
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hilton-rodrigo-da-silva-mota-969078118/), [Instagram](https://www.instagram.com/hrodrigomota)
 
 **Languages and tools:**
