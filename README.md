@@ -1,4 +1,15 @@
-### Hi there 👋
+# Hi, I'm Hilton Rodrigo 👋
+
+## About Me:
+- I'm brazilian
+- I'm currently studying programming
+
+## Languages and tools:
+
+
+## How to reach me:
+[linkedin](https://www.linkedin.com/in/hilton-rodrigo-da-silva-mota-969078118/)
+[instagram](https://www.instagram.com/hrodrigomota)
 
 <!--
 **hrodrigomota/hrodrigomota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
