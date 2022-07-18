@@ -1,20 +1,15 @@
-# Hi, I'm Hilton Rodrigo 👋
+# Hi, I'm Hilton Rodrigo 👋🏽
 
 **About Me:**
-- I'm brazilian
-- I'm currently studying programming
+- :earth_americas: I'm from Brazil
+- 👨🏽‍💻 I'm currently studying programming
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hilton-rodrigo-da-silva-mota-969078118/), [Instagram](https://www.instagram.com/hrodrigomota)
 
 **Languages and tools:**
 
-<img align="left" height="20" src="https://github.com/hrodrigomota/hrodrigomota/blob/main/images/html-5.png">
-<img align="left" height="20" src="https://github.com/hrodrigomota/hrodrigomota/blob/main/images/css-3.png">
-<img align="left" height="20" src="https://github.com/hrodrigomota/hrodrigomota/blob/main/images/js.png">
-
-
-
-**How to reach me:**
-[LinkedIn](https://www.linkedin.com/in/hilton-rodrigo-da-silva-mota-969078118/),
-[instagram](https://www.instagram.com/hrodrigomota)
+<img align="left" height="30" src="https://github.com/hrodrigomota/hrodrigomota/blob/main/images/html-5.png">
+<img align="left" height="30" src="https://github.com/hrodrigomota/hrodrigomota/blob/main/images/css-3.png">
+<img height="30" src="https://github.com/hrodrigomota/hrodrigomota/blob/main/images/js.png">
 
 <!--
 **hrodrigomota/hrodrigomota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
