@@ -1,14 +1,19 @@
 # Hi, I'm Hilton Rodrigo 👋
 
-## About Me:
+**About Me:**
 - I'm brazilian
 - I'm currently studying programming
 
-## Languages and tools:
+**Languages and tools:**
+
+<img align="left" height="20" src="https://github.com/hrodrigomota/hrodrigomota/blob/main/images/html-5.png">
+<img align="left" height="20" src="https://github.com/hrodrigomota/hrodrigomota/blob/main/images/css-3.png">
+<img align="left" height="20" src="https://github.com/hrodrigomota/hrodrigomota/blob/main/images/js.png">
 
 
-## How to reach me:
-[linkedin](https://www.linkedin.com/in/hilton-rodrigo-da-silva-mota-969078118/)
+
+**How to reach me:**
+[LinkedIn](https://www.linkedin.com/in/hilton-rodrigo-da-silva-mota-969078118/),
 [instagram](https://www.instagram.com/hrodrigomota)
 
 <!--
