@@ -2,7 +2,7 @@
 
 ###
 
-<h2>About Me:</h2>
+**About Me:**
 
 ###
 
@@ -26,11 +26,11 @@
 
 ###
 
-<h2>Hard Skills (Languages and Tools):</h2>
+**Hard Skills (Languages and Tools):**
 
 ###
+
 <div align="left">
-  <br />
   <img height="40" src="./images/html-5.png" alt="HTML logo">
   <img height="40" src="./images/css-3.png" alt="CSS logo">
   <img height="40" src="./images/js.png" alt="JavaScript logo">
