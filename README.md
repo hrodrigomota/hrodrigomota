@@ -22,7 +22,7 @@
 
 ###
 
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/hrodrigomota/" target="_blank">Linkedin</a>, <a href="https://www.instagram.com/hrodrigomota" target="_blank">Instagram</a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/hrodrigomota/" target="_blank">Linkedin</a>, <a href="https://my-portfolio-hrodrigomota.vercel.app/" target="_blank">Portfolio</a>, <a href="https://www.instagram.com/hrodrigomota" target="_blank">Instagram</a>
 
 ###
 
