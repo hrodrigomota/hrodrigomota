@@ -37,6 +37,7 @@
   <img height="40" src="./images/git.png" alt="Git logo">
   <img height="40" src="./images/sass.svg" alt="SASS logo">
   <img height="40" src="./images/bootstrap.png" alt="Bootstrap logo">
+  <img height="40" src="./images/node-js.png" alt="Node.js logo">
   <img height="40" src="./images/react.png" alt="React logo">
   <img height="40" src="./images/tailwind-css.png" alt="TailwnindCSS logo">
   <img height="40" src="./images/nextjs.jpg" alt="Nextjs logo">
